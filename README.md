@@ -10,7 +10,7 @@ I'm Rob, and I work for [id3as](https://github.com/robashton/) full time, buildi
 
 This has been the case for about ten years now, before then
 
-- I was a journeyman, wandering around the globe doing discrete/focused jobs for companies and learning how everybody else liked to do things.
+- I was a "journeyman" (snark), wandering around the globe doing discrete/focused jobs for companies and learning how everybody else liked to do things.
 - I was a consultant working as a "technical expert" for a huge international company in Belgium building data analytics tools in Silverlight (lol)
 - I was a .NET developer working as a technical lead for an SME near Oxford
 

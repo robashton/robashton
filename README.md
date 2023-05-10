@@ -1,6 +1,6 @@
 ### Me
 
-I've been told to create one of these because my [personal site](http://codeofrob.com) is a bag of bones (It was geocitified as a joke and it was never changed back).
+I've let my own website rot into the ground, so this will have to suffice until I ever feel the need to flagrantly self promote again.
 
 I'm Rob, and I work for [id3as](https://github.com/robashton/) full time, building distributed media/content-delivery systems using
 

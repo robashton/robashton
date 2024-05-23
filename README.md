@@ -20,4 +20,4 @@ I don't have any actual open source on my Github, my popular repos are either jo
 
 I did however write the opinionated OTP bindings for Purescript ([Pinto](https://github.com/id3as/purescript-erl-pinto)) that we and others use across our products, ditto the bindings for Cowboy ([Stetson](https://github.com/id3as/purescript-erl-stetson)), as well as as various other things across that ecosystem, but those are hosted by work cos they're for work.
 
-I use Github for work, so most of my commits are work related. My spare time is spend doing things that isn't work, so doesn't (these days) end up producing things for this site. I'm okay with that.
+I use Github for work, so most of my commits are work related. My spare time is spent doing things that isn't work, so doesn't (these days) end up producing things for this site. I'm okay with that.

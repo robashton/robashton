@@ -16,6 +16,8 @@ This has been the case for about ten years now, before then
 
 I have been known to talk at conferences, although I do less of that these days. My popular talks were about Javascript and .NET and I don't do those things any more and nobody wants to hear about functional programming because heaven forbid people be shown something outside of their comfort zone at these things.
 
-I don't have any actual open source on Github, my popular repos are either joke projects like [erlang.net](https://github.com/robashton/erlang.net), learning projects like [cravendb](https://github.com/robashton/cravendb) or games that written in JS that probably don't build any more like [hoverbattles](https://github.com/robashton/hoverbattles)
+I don't have any actual open source on my Github, my popular repos are either joke projects like [erlang.net](https://github.com/robashton/erlang.net), learning projects like [cravendb](https://github.com/robashton/cravendb) or games that written in JS that probably don't build any more like [hoverbattles](https://github.com/robashton/hoverbattles)
+
+I did however write the opinionated OTP bindings for Purescript ([Pinto](https://github.com/id3as/purescript-erl-pinto)) that we and others use across our products, ditto the bindings for Cowboy ([Stetson](https://github.com/id3as/purescript-erl-stetson)), as well as as various other things across that ecosystem, but those are hosted by work cos they're for work.
 
 I use Github for work, so most of my commits are work related. My spare time is spend doing things that isn't work, so doesn't (these days) end up producing things for this site. I'm okay with that.

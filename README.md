@@ -2,7 +2,7 @@
 
 I've let my own website rot into the ground, so this will have to suffice until I ever feel the need to flagrantly self promote again.
 
-I'm Rob, and I work for [id3as](https://github.com/robashton/) full time, building distributed media/content-delivery systems using
+I'm Rob, and I work for [id3as](https://github.com/robashton/) full time, building a distributed media/content-delivery platform ([Norsk](https://norsk.video)) using
 
 - Erlang
 - Purescript
